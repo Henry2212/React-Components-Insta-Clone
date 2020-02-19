@@ -3,6 +3,7 @@
 import React from "react";
 import Post from "./Post";
 import "./Posts.css";
+
 // import data 
 
 const PostsPage = props => {
