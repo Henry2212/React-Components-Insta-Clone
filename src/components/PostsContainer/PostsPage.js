@@ -12,7 +12,7 @@ const PostsPage = props => {
     <div className="posts-container-wrapper">
       {/* map through data here */}
       {data.map(i => (
-        <Post data = {i}/>
+        <Post  data = {i}  />
       ))}
     </div>
   );
